@@ -15,7 +15,7 @@ AUTOLOAD. I really don't expect it to have any sensible uses at all
 (but if you find one, I'd be interested in knowing what it is).
 
 ##HOW DO I INSTALL IT?
-
+Yo
 Symbol::Approx::Sub uses the standard Perl module architecture and can
 therefore by installed using the standard Perl method which, in
 brief, goes something like this:
